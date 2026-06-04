@@ -6,9 +6,10 @@ It contains prestructured code for most basic telegram bot features and has some
 
 ## Dependencies
 
-**teloxide = { version = "0.17.0", features = ["macros"] }**
-**tokio    = { version = "1.52.3", features = ["macros"] }**
-***reqwest = { version = "0.12.28", features = ["socks"] }** 
+* **teloxide = { version = "0.17.0", features = ["macros"] }**
+* **tokio  = { version = "1.52.3", features = ["macros"] }**
+* **reqwest = { version = "0.12.28", features = ["socks"] }*
+
 
 > NOTE: 
 > Crates' versions are the latest tested at the time of the last commit.
